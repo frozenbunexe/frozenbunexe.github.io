@@ -1,5 +1,5 @@
 # ===== 站点基本信息（这几项最常改）=====
-baseURL: https://webicebread.github.io/
+baseURL: https://frozenbunexe.github.io/
 languageCode: zh-cn
 theme: hugo-theme-stack
 title: 互联网冷冻小面包          # ← 站点标题
@@ -99,7 +99,7 @@ params:
         opengraph:
             enabled: true
             local: false
-            src: https://webicebread.github.io/og-default.png
+            src: https://frozenbunexe.github.io/og-default.png
 
     colorScheme:
         toggle: true
@@ -151,7 +151,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/webicebread
+          url: https://github.com/frozenbunexe
           params:
               icon: brand-github
 
